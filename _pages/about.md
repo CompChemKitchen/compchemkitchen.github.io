@@ -22,9 +22,9 @@ We also invite speakers from industry and non-profits from time to time, and occ
     Applications of Machine Learning, Deep Learning, and AI;
     Quantum Methods, including DFT.
  
-If you have ideas for speakers, or would like to give a talk, [let us know](garrett.morris@stats.ox.ac.uk).
+If you have ideas for speakers, or would like to give a talk, [let us know](mailto:garrett.morris@stats.ox.ac.uk).
 
-![Abbot's Kitchen, Oxford, Watercolor, Detailed, 512x683](/assets/images/Abbots-Kitchen-Oxford-Watercolor-Detailed-512x683-333x444.png.jpg)
+![Abbot's Kitchen, Oxford, Watercolor, Detailed, 512x683](/assets/images/Abbots-Kitchen-Oxford-Watercolor-Detailed-512x683-333x444.png)
 
 
 In the spirit of the name, (most of) our meetings began in the Abbott’s Kitchen, although this is now part of the new Parks College development and no longer available to Chemistry. Wikipedia says:
