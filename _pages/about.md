@@ -28,10 +28,10 @@ If you have ideas for speakers, or would like to give a talk, [let us know](mail
 
 
 In the spirit of the name, (most of) our meetings began in the Abbott’s Kitchen, although this is now part of the new Parks College development and no longer available to Chemistry. Wikipedia says:
-The Abbot’s Kitchen in Oxford, England is an early chemistry laboratory based on the Abbot’s Kitchen at Glastonbury Abbey, a mediaeval 14th-century octagonal building that served as the kitchen at the abbey.[1](https://en.wikipedia.org/wiki/Abbot%27s_Kitchen,_Oxford#cite_note-tripadvisor-1)
+The Abbot’s Kitchen in Oxford, England is an early chemistry laboratory based on the Abbot’s Kitchen at Glastonbury Abbey, a mediaeval 14th-century octagonal building that served as the kitchen at the abbey.\[[1]\](https://en.wikipedia.org/wiki/Abbot%27s_Kitchen,_Oxford#cite_note-tripadvisor-1)
 
 …
 
-Chemistry was first recognized as a separate discipline at Oxford University with the construction of this laboratory, attached to the Oxford University Museum of Natural History, and opening in 1860.[2](https://en.wikipedia.org/wiki/Abbot%27s_Kitchen,_Oxford#cite_note-2) The laboratory is a stone-built structure to the right of the museum, built in the Victorian Gothic style. The building was one of the first ever purpose-built chemical laboratories anywhere and was extended in 1878.
+Chemistry was first recognized as a separate discipline at Oxford University with the construction of this laboratory, attached to the Oxford University Museum of Natural History, and opening in 1860.\[[2]\](https://en.wikipedia.org/wiki/Abbot%27s_Kitchen,_Oxford#cite_note-2) The laboratory is a stone-built structure to the right of the museum, built in the Victorian Gothic style. The building was one of the first ever purpose-built chemical laboratories anywhere and was extended in 1878.
 
 We also occasionally hold meetings in the Seminar Room in the Department of Biochemistry, in the Wolfson seminar room of the Chemistry Research Laboratory on South Parks Road, or in the spiffy new computer lab in the Department of Statistics, now in 24-29 St Giles’, depending on the needs of the event.
