@@ -1,3 +1,4 @@
 url: 'https://compchemkitchen.org'
 name: 'Comp Chem Kitchen'
 description: 'Computational Chemistry in Oxford'
+theme: minimal-mistakes-jekyll
