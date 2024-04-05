@@ -1,0 +1,27 @@
+---
+id: 403
+title: CCK-18
+date: '2020-03-23T02:44:58+00:00'
+author: 'Garrett Morris'
+layout: revision
+guid: 'https://compchemkitchen.org/2020/03/23/391-revision-v1/'
+permalink: '/?p=403'
+---
+
+*UPDATE:* We are going virtual! Our next Comp Chem Kitchen, CCK-18, will be a webinar, on *Friday*, March 27, 2020, at 5-6 pm. We are delighted to announce that **Prof. Andreas Bender** from the *University of Cambridge* will be speaking, as well as **Dr Vicky Hellon** from *F1000 Research*. <s>To join the webinar, you must sign up for a [free ticket](https://www.eventbrite.com/e/comp-chem-kitchen-cck-18-tickets-99195754171) (limit 100).</s> *Sold out (as of March 23)! We are looking into streaming the event via YouTube. More info soon.*
+
+<figure class="wp-block-image">![](https://d2q0qd5iz04n9u.cloudfront.net/_ssl/proxy.php/http/www.andreasbender.de/andreas.jpg)<figcaption>*[Prof. Andreas Bender](https://www.andreasbender.de/)*</figcaption></figure>*Dr. Andreas Bender (University of Cambridge):* **“AI in Drug Discovery – What is Realistic, What are Illusions?”**  
+  
+While ‘AI in Drug Discovery’ is currently a hot topic, it is important to be optimistic, yet realistic, about its opportunities in the area: Drugs work in biological systems, which are noisy by their very nature, and which we don’t understand properly. This presentation will outline approaches and applications of AI in the drug discovery field, with a particular focus on data currently available to us, and challenges with the translation of computational predictions into the physiological (*in vivo*) context.
+
+*Dr Andreas Bender is a Reader for Molecular Informatics with the Centre for Molecular Science Informatics at the Department of Chemistry of the University of Cambridge, leading a group of about 15 postdocs, PhD and graduate students and academic visitors in the area of life science data analysis. In parallel, he leads a team in Computational Drug Safety and ADME within the Clinical Pharmacology &amp; Safety Sciences group at AstraZeneca in Cambridge (CPSS DSAI). In his work, Andreas is involved with the integration and analysis of chemical and biological data, aimed at understanding phenotypic compound action (such as cellular readouts, and also organism-level effects) on a mechanistic level, predicting molecular properties related to both compound effiacy and toxicity, as well as drug repurposing. He received his PhD from the University of Cambridge and worked in the Lead Discovery Informatics group at Novartis in Cambridge, MA, USA, as well as at Leiden University in the Netherlands before his current post. In 2013 he was awarded an ERC Starting Grant to model mixture effects of chemical structures in biological systems using mechanistic approaches, an area currently very little understood*.
+
+*Dr Bender is a Reader for Molecular Informatics, at the Centre for Molecular Informatics in the Department of Chemistry, University of Cambridge; and Associate Director of Computational ADME/Tox (CPSS-DSAI), at AstraZeneca, Cambridge, UK*,
+
+*Vicky Hellon (Associate Publisher, F1000Research)*: **“F1000Research: Open Access publishing and Chemoinformatics**“
+
+F1000 Research was established as a publishing platform in 2013 with the aim of pioneering open research through open data, open peer review and transparency throughout the publication process. The talk will discuss open publishing in general, how the publication model at F1000Research works and how this differs from more ‘traditional’ scientific publishing. There will also be discussion on the F1000Research Chemical Information Science [Gateway](https://f1000research.com/cis) and our experiences of publishing in the Chemoinformatics/software area.
+
+*Vicky Hellon is the Associate Publisher at F1000Research which she joined in 2017 after previous roles in Open Access publishing at Nature Research. Her role encompasses developing content across F1000Research, building collaborations and supporting the development of funder specific publishing platforms, particularly Wellcome Open Research and also HRB Open Research which she is currently project lead on. She is passionate about the progression of open research and particularly enjoys opportunities to actively engage with the research community.*
+
+We would like to thank the University of Oxford [MPLS Network and Interdisciplinary Fund](https://www.mpls.ox.ac.uk/internal-research-funding/research-funding/networking-and-interdisciplinary-fund) (NIF) for making CCK possible.
