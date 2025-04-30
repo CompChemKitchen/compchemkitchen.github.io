@@ -1,5 +1,6 @@
 url: 'https://compchemkitchen.org'
 name: 'Comp Chem Kitchen'
+title: 'Comp Chem Kitchen'
 description: 'Computational Chemistry in Oxford'
 
 plugins:
