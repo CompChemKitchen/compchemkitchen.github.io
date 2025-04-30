@@ -3,7 +3,6 @@ id: 386
 title: 'CCK-17: Slides from Wendy Warr'
 date: '2019-12-01T01:28:34+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=386'
 permalink: /2019/12/01/cck-17-slides-from-wendy-warr/
 categories:

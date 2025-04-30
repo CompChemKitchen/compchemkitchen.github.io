@@ -3,7 +3,6 @@ id: 255
 title: 'CCK-11 Slides from Ole Juul Andersen'
 date: '2018-02-07T15:57:25+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=255'
 permalink: /2018/02/07/cck-11-slides-from-ole-juul-andersen/
 h5abMetaStylingData:

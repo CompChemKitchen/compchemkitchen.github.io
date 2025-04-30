@@ -3,7 +3,6 @@ id: 199
 title: 'Forthcoming CCK schedule'
 date: '2017-10-13T11:34:53+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=199'
 permalink: /2017/10/13/forthcoming-cck-schedule/
 h5abMetaStylingData:

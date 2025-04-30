@@ -3,7 +3,6 @@ id: 131
 title: 'CCK-5 [including RDKit workshop]'
 date: '2016-10-25T15:00:52+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=131'
 permalink: /2016/10/25/cck-5-including-rdkit-workshop/
 h5abMetaStylingData:

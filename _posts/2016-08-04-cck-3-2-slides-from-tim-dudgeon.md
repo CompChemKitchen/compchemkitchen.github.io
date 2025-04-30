@@ -3,7 +3,6 @@ id: 122
 title: 'CCK-3.2: Slides from Tim Dudgeon'
 date: '2016-08-04T09:51:19+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=122'
 permalink: /2016/08/04/cck-3-2-slides-from-tim-dudgeon/
 h5abMetaStylingData:

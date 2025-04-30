@@ -3,7 +3,6 @@ id: 265
 title: 'CCK-12 Postponed'
 date: '2018-03-29T18:37:53+01:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=265'
 permalink: /2018/03/29/cck-12-postponed/
 h5abMetaStylingData:

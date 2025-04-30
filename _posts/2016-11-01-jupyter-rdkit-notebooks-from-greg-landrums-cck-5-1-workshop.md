@@ -3,7 +3,6 @@ id: 146
 title: 'Jupyter RDKit Notebooks from Greg Landrum&#8217;s CCK-5.1 Workshop'
 date: '2016-11-01T17:06:52+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=146'
 permalink: /2016/11/01/jupyter-rdkit-notebooks-from-greg-landrums-cck-5-1-workshop/
 h5abMetaStylingData:

@@ -3,7 +3,6 @@ id: 143
 title: 'CCK-5.1 Quick Poll'
 date: '2016-10-31T16:57:20+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=143'
 permalink: /2016/10/31/cck-5-1-quick-poll/
 h5abMetaStylingData:

@@ -3,7 +3,6 @@ id: 20
 title: Register
 date: '2016-05-20T09:10:28+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=20'
 permalink: /2016/05/20/register-your-interest/
 categories:

@@ -3,7 +3,6 @@ id: 35
 title: 'CCK-2 (Tuesday 14th June)'
 date: '2016-06-09T08:53:02+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=35'
 permalink: /2016/06/09/cck-2-tuesday-14th-june/
 h5abMetaStylingData:

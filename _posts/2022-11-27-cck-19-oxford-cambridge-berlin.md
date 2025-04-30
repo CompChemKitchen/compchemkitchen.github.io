@@ -3,7 +3,6 @@ id: 413
 title: 'CCK-19: Oxford + Cambridge + Berlin'
 date: '2022-11-27T20:11:00+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'https://compchemkitchen.org/?p=413'
 permalink: /2022/11/27/cck-19-oxford-cambridge-berlin/
 categories:

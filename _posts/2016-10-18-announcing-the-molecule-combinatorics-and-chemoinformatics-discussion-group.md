@@ -3,7 +3,6 @@ id: 128
 title: 'Announcing the “Molecule Combinatorics” and “Chemoinformatics” Discussion Group'
 date: '2016-10-18T13:30:18+01:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=128'
 permalink: /2016/10/18/announcing-the-molecule-combinatorics-and-chemoinformatics-discussion-group/
 h5abMetaStylingData:

@@ -3,7 +3,6 @@ id: 286
 title: 'CCK-13 &#038; MGMS: Molecular VR'
 date: '2018-11-21T13:16:49+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=286'
 permalink: /2018/11/21/cck-13-mgms-molecular-vr/
 categories:

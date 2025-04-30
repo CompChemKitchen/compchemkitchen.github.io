@@ -3,7 +3,6 @@ id: 276
 title: 'Announcement: Course on Machine Learning for Chemoinformatics'
 date: '2018-07-05T12:27:51+01:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=276'
 permalink: /2018/07/05/announcement-course-on-machine-learning-for-chemoinformatics/
 categories:

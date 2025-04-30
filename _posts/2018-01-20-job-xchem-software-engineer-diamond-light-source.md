@@ -3,7 +3,6 @@ id: 247
 title: 'Job: XChem Software Engineer, Diamond Light Source'
 date: '2018-01-20T14:46:15+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=247'
 permalink: /2018/01/20/job-xchem-software-engineer-diamond-light-source/
 h5abMetaStylingData:

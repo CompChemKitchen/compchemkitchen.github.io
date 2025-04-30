@@ -3,7 +3,6 @@ id: 382
 title: 'Richard Gowers from NextMove Software speaking at CCK-17'
 date: '2019-11-08T16:36:59+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=382'
 permalink: /2019/11/08/richard-gowers-from-nextmove-software-speaking-at-cck-17/
 categories:

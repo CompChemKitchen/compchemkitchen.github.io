@@ -3,7 +3,6 @@ id: 72
 title: 'CCK-1: Slides from Michael Charlton, InhibOx'
 date: '2016-06-01T17:22:33+01:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=72'
 permalink: /2016/06/01/cck-1-slides-from-michael-charlton-inhibox/
 categories:

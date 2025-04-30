@@ -3,7 +3,6 @@ id: 304
 title: 'Job: RSE position in Oxford Protein Informatics Group'
 date: '2019-03-03T22:28:07+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=304'
 permalink: /2019/03/03/rse-in-opig/
 categories:

@@ -3,7 +3,6 @@ id: 12
 title: 'First meeting'
 date: '2016-05-14T20:01:05+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=12'
 permalink: /2016/05/14/first-meeting/
 h5abMetaStylingData:

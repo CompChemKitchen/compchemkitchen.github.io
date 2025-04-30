@@ -3,7 +3,6 @@ id: 224
 title: 'CCK-9: Slides from Paul Finn, Oxford Drug Discovery'
 date: '2017-11-10T17:38:28+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=224'
 permalink: /2017/11/10/cck-9-comp-chem-in-drug-discovery-what-works-and-what-doesnt/
 h5abMetaStylingData:

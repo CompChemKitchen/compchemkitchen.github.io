@@ -3,7 +3,6 @@ id: 370
 title: 'Congratulations to Dr Wendy Warr'
 date: '2019-09-16T19:36:29+01:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=370'
 permalink: /2019/09/16/congratulations-to-dr-wendy-warr/
 categories:

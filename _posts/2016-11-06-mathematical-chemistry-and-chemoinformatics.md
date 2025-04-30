@@ -3,7 +3,6 @@ id: 154
 title: '&#8220;Mathematical Chemistry and ChemoInformatics&#8221;'
 date: '2016-11-06T23:52:51+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=154'
 permalink: /2016/11/06/mathematical-chemistry-and-chemoinformatics/
 h5abMetaStylingData:

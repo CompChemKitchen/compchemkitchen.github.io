@@ -3,7 +3,6 @@ id: 221
 title: 'CCK-10 Hackathon'
 date: '2017-11-09T12:37:52+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=221'
 permalink: /2017/11/09/cck-10-hackathon/
 h5abMetaStylingData:

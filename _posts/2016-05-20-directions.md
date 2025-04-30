@@ -3,7 +3,6 @@ id: 29
 title: Directions
 date: '2016-05-20T12:53:40+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=29'
 permalink: /2016/05/20/directions/
 h5abMetaStylingData:

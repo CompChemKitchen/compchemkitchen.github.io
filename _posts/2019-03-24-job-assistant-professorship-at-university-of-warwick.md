@@ -3,7 +3,6 @@ id: 309
 title: 'Job: Assistant Professorship at University of Warwick'
 date: '2019-03-24T22:16:48+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=309'
 permalink: /2019/03/24/job-assistant-professorship-at-university-of-warwick/
 categories:

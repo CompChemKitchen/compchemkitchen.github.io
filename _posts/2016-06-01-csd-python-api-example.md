@@ -3,7 +3,6 @@ id: 80
 title: 'CSD Python API example'
 date: '2016-06-01T14:40:03+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=80'
 permalink: /2016/06/01/csd-python-api-example/
 h5abMetaStylingData:

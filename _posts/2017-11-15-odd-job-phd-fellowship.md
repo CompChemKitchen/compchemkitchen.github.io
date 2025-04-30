@@ -3,7 +3,6 @@ id: 233
 title: 'ODD Job: PhD Fellowship'
 date: '2017-11-15T11:00:36+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=233'
 permalink: /2017/11/15/odd-job-phd-fellowship/
 h5abMetaStylingData:

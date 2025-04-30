@@ -3,7 +3,6 @@ id: 405
 title: 'CCK-18 on YouTube'
 date: '2020-03-27T16:48:49+00:00'
 author: 'Garrett Morris'
-layout: post
 guid: 'http://compchemkitchen.org/?p=405'
 permalink: /2020/03/27/cck-18-on-youtube/
 categories:

@@ -3,7 +3,6 @@ id: 283
 title: 'CCK-14 Hackathon-2:  13 December 2018'
 date: '2018-12-03T17:36:55+00:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=283'
 permalink: /2018/12/03/cck-hackathon-13-december-2018/
 categories:

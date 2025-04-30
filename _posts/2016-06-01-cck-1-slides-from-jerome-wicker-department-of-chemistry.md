@@ -3,7 +3,6 @@ id: 74
 title: 'CCK-1: Slides from Jerome Wicker, Department of Chemistry'
 date: '2016-06-01T20:20:14+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=74'
 permalink: /2016/06/01/cck-1-slides-from-jerome-wicker-department-of-chemistry/
 categories:

@@ -3,7 +3,6 @@ id: 87
 title: 'CCK-2: Slides from Fernanda Duarte'
 date: '2016-06-15T10:06:02+01:00'
 author: 'Richard Cooper'
-layout: post
 guid: 'http://compchemkitchen.org/?p=87'
 permalink: /2016/06/15/cck-2-slides-from-fernanda-duarte/
 h5abMetaStylingData:
