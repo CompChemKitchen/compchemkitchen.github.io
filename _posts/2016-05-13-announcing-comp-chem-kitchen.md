@@ -3,7 +3,7 @@ id: 4
 title: 'Announcing Comp Chem Kitchen'
 date: '2016-05-13T20:41:05+01:00'
 author: 'Richard Cooper'
-layout: post
+layout: posts
 guid: 'http://compchemkitchen.org/?p=4'
 permalink: /2016/05/13/announcing-comp-chem-kitchen/
 bfa_virtual_template:
