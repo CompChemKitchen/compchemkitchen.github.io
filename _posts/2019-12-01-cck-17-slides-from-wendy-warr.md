@@ -11,4 +11,4 @@ categories:
 
 Here are Wendy’s slides from her inspiring talk, “My Way”, last week here in Oxford:
 
-[Warr Oxford My Way Version Final](http://compchemkitchen.org/wp-content/uploads/2019/12/warr-oxford-my-way-version-final.pptx)[Download](http://compchemkitchen.org/wp-content/uploads/2019/12/warr-oxford-my-way-version-final.pptx)
+Download [Warr-Oxford-My-Way](http://compchemkitchen.org/wp-content/uploads/2019/12/warr-oxford-my-way-version-final.pptx) (PPTX format)
